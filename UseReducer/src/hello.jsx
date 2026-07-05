@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello GitHub</h1>
+    <h2>This is master2</h2>
 </body>
 </html>
